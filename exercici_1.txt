@@ -1,2 +1,6 @@
 Iniciant l'exercici per entregar
+
 modifico el text del fitxer des de la branch1
+
+faig un segon canvi al document
+
